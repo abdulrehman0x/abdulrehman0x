@@ -1,96 +1,76 @@
-Here is the complete, single-file markdown. Just click "Copy code" and paste it directly into your `README.md` on GitHub.
-
-```markdown
-<!-- ───────────── SYSTEM BOOT / HEADER ───────────── -->
 <div align="center">
-
-<a href="https://github.com/abdulrehman0x">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=root%40nutech%3A~%23+./init_system.sh;%5BOK%5D+Loading+Low-Level+Systems+%26+Quant+Engines;%5BOK%5D+Mounting+C%2B%2B20+%26+Rust+Toolchains;%5BOK%5D+Establishing+High-Throughput+Pipelines;%5BSUCCESS%5D+System+ready+for+execution." alt="Boot Sequence" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=abdulrehman0x&label=SYS_PINGS&color=0d1117&style=flat-square" alt="views"/>
-<img src="https://img.shields.io/github/followers/abdulrehman0x?label=CONNECTED_NODES&style=flat-square&color=0d1117&labelColor=1f2937" alt="followers"/>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-22c55e?style=flat-square&labelColor=1f2937" alt="status"/>
-
+  <img src="[https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=180&section=header&text=ABDUL%20REHMAN%20IMRAN&fontSize=50&fontColor=00FF00&animation=blinking&fontAlignY=45&desc=SYSTEMS%20%7C%20QUANT%20%7C%20DETERMINISTIC%20EXECUTION&descAlignY=65&descSize=18](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=180&section=header&text=ABDUL%20REHMAN%20IMRAN&fontSize=50&fontColor=00FF00&animation=blinking&fontAlignY=45&desc=SYSTEMS%20%7C%20QUANT%20%7C%20DETERMINISTIC%20EXECUTION&descAlignY=65&descSize=18)" width="100%" alt="header"/>
+  <a href="[https://github.com/abdulrehman0x](https://github.com/abdulrehman0x)">
+    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=800&lines=root%40nutech%3A~%23+./boot_sequence.sh+--force+--quant-mode;%5B+OK+%5D+Mounting+C%2B%2B20+zero-allocation+critical+path...;%5B+OK+%5D+Initializing+Rust+memory+safety+protocols...;%5B+OK+%5D+Loading+Order+Book+Matching+Engine+(O(1)+lookups);%5B+OK+%5D+Spawning+Roman+Urdu+NLP+triage+(OpenAI+API);%5B+WARN+%5D+CPU+thermal+threshold+exceeded.+Throughput+locked+at+100%25;%5B+SUCCESS+%5D+System+online.+Waiting+for+market+open](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=800&lines=root%40nutech%3A~%23+./boot_sequence.sh+--force+--quant-mode;%5B+OK+%5D+Mounting+C%2B%2B20+zero-allocation+critical+path...;%5B+OK+%5D+Initializing+Rust+memory+safety+protocols...;%5B+OK+%5D+Loading+Order+Book+Matching+Engine+(O(1)+lookups);%5B+OK+%5D+Spawning+Roman+Urdu+NLP+triage+(OpenAI+API);%5B+WARN+%5D+CPU+thermal+threshold+exceeded.+Throughput+locked+at+100%25;%5B+SUCCESS+%5D+System+online.+Waiting+for+market+open)..." alt="Boot Sequence" />
+  </a>
 </div>
 
----
-
-## ⚡ DIAGNOSTICS / CORE SPECS
-
 ```bash
-abdulrehman@nutech:~$ neofetch --hardware
-```
-```yaml
+[root@nutech ~]# neofetch
+
+       /$$   /$$/$$$$$$$$/$$$$$$/$$$$$$$$/$$$$$$\vert{}$$  | $$\vert{}__$$__/|_  $$_/ \vert{}$$_____/|_  $$_/ \vert{} $$  | $$\vert{}$$     | $$\vert{}$$        | $$\vert{}$$$$$$$$\vert{}$$     | $$\vert{}$$$$$\vert{}$$   
+      | $$__$$   | $$\vert{}$$   | $$__/     \vert{}$$   
+      | $$\vert{}$$   | $$\vert{}$$   | $$\vert{}$$   
+      | $$\vert{}$$   | $$/$$$$$$\vert{}$$$$$$$$/$$$$$$ 
+      |__/  |__/   |__/   |______/ |________/|______/ 
+
 OS:           NUTECH (Software Engineering)
-Kernel:       First-Principles Systems Engineering
-Shell:        zsh (Terminal-First Workflow)
-Languages:    C++20, Rust, C, Python
-Focus:        Deterministic Execution, Market Mechanics
-Vibe:         High-Contrast, Low-Stress, Zero-Fluff
-```
+Kernel:       6.1.0-deterministic-quant
+Shell:        zsh 5.9 (x86_64-pc-linux-gnu)
+Terminal:     Alacritty (GPU-Accelerated)
+DE:           i3wm (Tiling / Zero-Waste)
+CPU:          C++20 / Rust (100% utilization)
+Memory:       Zero-Allocation / Arena Allocators
+Focus:        High-Throughput Architecture
+Vibe:         Terminal-First / Low-Stress / Neutral
 
-<br/>
+[root@nutech ~]# cat /proc/market_data/order_book
 
-| Subsystem | Spec | Implementation |
-| :--- | :--- | :--- |
-| **LATENCY** | `O(1)` Lookups | Cache-friendly data structures, Lock-free concurrency |
-| **MEMORY** | Zero-Allocation | RAII, Arena Allocators, Smart Pointers |
-| **THROUGHPUT** | High-Volume | Multithreading, Asynchronous I/O, Event-driven architecture |
-| **ARCHITECTURE** | Market Mechanics | Price-Time Priority, Order Book Matching, Quant Engines |
+  ASKS (SELL)                                                        PRICE    VOLUME
+  ████████████████████████████████████████████████████████████████   102.50   12,000
+  ███████████████████████████████████████████                        102.25    6,400
+  ██████████████████████████                                         102.00    3,200
+  ────────────────────────────────────────────────────────  SPREAD  ─────────────────
+  ██████████████████████████████                                     101.50    4,100
+  ██████████████████████████████████████████████████████████         101.25   14,000
+  ████████████████████████████████████████████████████████████████   101.00   12,800
+  BIDS (BUY)
 
----
+[ENGINE STATUS] Matching Engine active. Price-Time Priority enforced. Latency: 14ns.
 
-## 💾 EXECUTION LOGS / HIGH-THROUGHPUT REPOS
+[root@nutech ~]# dmesg | grep -E "PROJECT|METRIC|SUCCESS"
 
-```bash
-abdulrehman@nutech:~$ dmesg | grep -E "PROJECT|METRIC"
-```
+[PID 1024] C++ Limit Order Book Matching Engine
+[INFO] Allocating contiguous memory for order queues...
+[DEBUG] Bypassing OS scheduler for critical execution path.
+[PERF] O(1) lookups locked. Cache misses minimized.
+[SUCCESS] Zero-allocation pipeline verified. Ready for production.
 
-> **[PID 1024] `C++ Limit Order Book Matching Engine`**
-> `[INFO]` Booting deterministic execution engine...
-> `[DEBUG]` Enforcing Price-Time Priority queue logic.
-> `[PERF]` Critical path locked to **Zero-Allocation**.
-> `[SUCCESS]` Achieved **`O(1)` lookups** across the order book.
+[PID 2048] Campus Echo (Fastn Hackathon Solo Build)
+[INFO] Booting automated triage daemon...
+[DEBUG] Parsing Roman Urdu NLP via OpenAI API. 
+[INFO] Connecting Telegram & Slack bot bridges.
+[SUCCESS] Autonomous issue routing active. Human intervention = 0.
 
-> **[PID 2048] `Campus Echo` (Fastn Hackathon Solo Build)**
-> `[INFO]` Initializing automated issue triage pipeline...
-> `[DEBUG]` Parsing Roman Urdu NLP via OpenAI API.
-> `[INFO]` Deploying Telegram & Slack bot interfaces.
-> `[SUCCESS]` Fully autonomous issue routing active.
+[root@nutech ~]# cat /sys/kernel/subsystems
 
----
+| SUBSYSTEM  | SPECIFICATION     | IMPLEMENTATION                                        |
+|------------|-------------------|-------------------------------------------------------|
+| LATENCY    | O(1) Lookups      | Cache-friendly data structures, Lock-free concurrency |
+| MEMORY     | Zero-Allocation   | RAII, Arena Allocators, Smart Pointers                |
+| THROUGHPUT | High-Volume       | Multithreading, Asynchronous I/O, Event-driven arch   |
+| SAFETY     | 100% Deterministic| Rust Borrow Checker, C++20 Concepts, Strict Typing    |
 
-## 📡 TELEMETRY / ANALYTICS
+[root@nutech ~]# ping github.com/abdulrehman0x
 
+<!-- RIGHT AFTER YOUR STATS & LANGUAGES CARDS -->
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=abdulrehman0x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&hide_title=true" alt="stats"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman0x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true" alt="languages"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrehman0x&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&hide_title=true" alt="activity graph" width="90%"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrehman0x&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF00&icon_color=00FFFF&text_color=ffffff&count_private=true&hide_title=true" height="160" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman0x&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF00&text_color=ffffff&hide_title=true" height="160" alt="languages"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrehman0x&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&color=00FF00&line=00FFFF&point=FF0000&area=true&hide_title=true" width="95%" alt="activity graph"/>
 </div>
 
----
-
-## 🔌 SIGNAL OUTLETS / CONNECT
-
+<!-- PLACE IT RIGHT HERE INSIDE A BASH CODE BLOCK -->
 ```bash
-abdulrehman@nutech:~$ cat /etc/network/interfaces
-```
-
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://x.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  
-  <br/><br/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=2000&color=94A3B8&center=true&vCenter=true&width=500&lines=%22Make+it+work.+Make+it+right.+Make+it+fast.%22;%5BEOF%5D+Waiting+for+next+instruction..." alt="Footer" />
-</div>
-```
+[root@nutech ~]# ssh connect@networks
