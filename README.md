@@ -1,17 +1,21 @@
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=180&section=header&text=ABDUL%20REHMAN%20IMRAN&fontSize=50&fontColor=00FF00&animation=blinking&fontAlignY=45&desc=SYSTEMS%20%7C%20QUANT%20%7C%20DETERMINISTIC%20EXECUTION&descAlignY=65&descSize=18](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=180&section=header&text=ABDUL%20REHMAN%20IMRAN&fontSize=50&fontColor=00FF00&animation=blinking&fontAlignY=45&desc=SYSTEMS%20%7C%20QUANT%20%7C%20DETERMINISTIC%20EXECUTION&descAlignY=65&descSize=18)" width="100%" alt="header"/>
-  <a href="[https://github.com/abdulrehman0x](https://github.com/abdulrehman0x)">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=800&lines=root%40nutech%3A~%23+./boot_sequence.sh+--force+--quant-mode;%5B+OK+%5D+Mounting+C%2B%2B20+zero-allocation+critical+path...;%5B+OK+%5D+Initializing+Rust+memory+safety+protocols...;%5B+OK+%5D+Loading+Order+Book+Matching+Engine+(O(1)+lookups);%5B+OK+%5D+Spawning+Roman+Urdu+NLP+triage+(OpenAI+API);%5B+WARN+%5D+CPU+thermal+threshold+exceeded.+Throughput+locked+at+100%25;%5B+SUCCESS+%5D+System+online.+Waiting+for+market+open](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=800&lines=root%40nutech%3A~%23+./boot_sequence.sh+--force+--quant-mode;%5B+OK+%5D+Mounting+C%2B%2B20+zero-allocation+critical+path...;%5B+OK+%5D+Initializing+Rust+memory+safety+protocols...;%5B+OK+%5D+Loading+Order+Book+Matching+Engine+(O(1)+lookups);%5B+OK+%5D+Spawning+Roman+Urdu+NLP+triage+(OpenAI+API);%5B+WARN+%5D+CPU+thermal+threshold+exceeded.+Throughput+locked+at+100%25;%5B+SUCCESS+%5D+System+online.+Waiting+for+market+open)..." alt="Boot Sequence" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=180&section=header&text=ABDUL%20REHMAN%20IMRAN&fontSize=50&fontColor=00FF00&animation=blinking&fontAlignY=45&desc=SYSTEMS%20%7C%20QUANT%20%7C%20DETERMINISTIC%20EXECUTION&descAlignY=65&descSize=18" width="100%" alt="header"/>
+  
+  <br/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=800&lines=root%40nutech%3A~%23+./boot_sequence.sh+--force+--quant-mode;%5B+OK+%5D+Mounting+C%2B%2B20+zero-allocation+critical+path...;%5B+OK+%5D+Initializing+Rust+memory+safety+protocols...;%5B+OK+%5D+Loading+Order+Book+Matching+Engine+(O(1)+lookups);%5B+OK+%5D+Spawning+Roman+Urdu+NLP+triage+(OpenAI+API);%5B+WARN+%5D+CPU+thermal+threshold+exceeded.+Throughput+locked+at+100%25;%5B+SUCCESS+%5D+System+online.+Waiting+for+market+open..." alt="Boot Sequence" />
 </div>
 
-```bash
+```text
 [root@nutech ~]# neofetch
 
-       /$$   /$$/$$$$$$$$/$$$$$$/$$$$$$$$/$$$$$$\vert{}$$  | $$\vert{}__$$__/|_  $$_/ \vert{}$$_____/|_  $$_/ \vert{} $$  | $$\vert{}$$     | $$\vert{}$$        | $$\vert{}$$$$$$$$\vert{}$$     | $$\vert{}$$$$$\vert{}$$   
-      | $$__$$   | $$\vert{}$$   | $$__/     \vert{}$$   
-      | $$\vert{}$$   | $$\vert{}$$   | $$\vert{}$$   
-      | $$\vert{}$$   | $$/$$$$$$\vert{}$$$$$$$$/$$$$$$ 
+       /$$   /$$ /$$$$$$$$ /$$$$$$  /$$$$$$$$ /$$$$$$ 
+      | $$  | $$|__  $$__/|_  $$_/ | $$_____/|_  $$_/ 
+      | $$  | $$   | $$     | $$   | $$        | $$   
+      | $$$$$$$$   | $$     | $$   | $$$$$     | $$   
+      | $$__  $$   | $$     | $$   | $$__/     | $$   
+      | $$  | $$   | $$     | $$   | $$        | $$   
+      | $$  | $$   | $$    /$$$$$$ | $$$$$$$$ /$$$$$$ 
       |__/  |__/   |__/   |______/ |________/|______/ 
 
 OS:           NUTECH (Software Engineering)
@@ -61,16 +65,4 @@ Vibe:         Terminal-First / Low-Stress / Neutral
 | THROUGHPUT | High-Volume       | Multithreading, Asynchronous I/O, Event-driven arch   |
 | SAFETY     | 100% Deterministic| Rust Borrow Checker, C++20 Concepts, Strict Typing    |
 
-[root@nutech ~]# ping github.com/abdulrehman0x
-
-<!-- RIGHT AFTER YOUR STATS & LANGUAGES CARDS -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrehman0x&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF00&icon_color=00FFFF&text_color=ffffff&count_private=true&hide_title=true" height="160" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman0x&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF00&text_color=ffffff&hide_title=true" height="160" alt="languages"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrehman0x&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&color=00FF00&line=00FFFF&point=FF0000&area=true&hide_title=true" width="95%" alt="activity graph"/>
-</div>
-
-<!-- PLACE IT RIGHT HERE INSIDE A BASH CODE BLOCK -->
-```bash
-[root@nutech ~]# ssh connect@networks
+[root@nutech ~]# ping [github.com/abdulrehman0x](https://github.com/abdulrehman0x)
