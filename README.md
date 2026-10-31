@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0b0f14,55:12303a,100:00e5ff&section=header&text=ABDUL%20REHMAN%&fontSize=44&fontColor=e6f7ff&fontAlign=50&fontAlignY=38&desc=abdulrehman0x%20%C2%B7%20quant%20engineering%20%C2%B7%20low-latency%20systems&descSize=15&descColor=f5c451&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0b0f14,55:12303a,100:00e5ff&section=header&text=ABDUL%20REHMAN%20IMRAN&fontSize=44&fontColor=e6f7ff&fontAlign=50&fontAlignY=38&desc=abdulrehman0x%20%C2%B7%20quant%20engineering%20%C2%B7%20low-latency%20systems&descSize=15&descColor=f5c451&descAlignY=60" width="100%" alt="header" />
 
 <a href="https://github.com/abdulrehman0x">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00E5FF&background=0B0F1400&center=true&vCenter=true&width=720&height=44&lines=%E2%96%B6+Building+Low-Latency+Infrastructure...;%E2%96%B6+Designing+C%2B%2B+Order+Books...;%E2%96%B6+Exploratory+Quant+Systems...;%E2%96%B6+Price-Time+Priority.+Deterministic+by+design.;%E2%96%B6+Compiling+ideas+into+nanoseconds." alt="typing" />
@@ -16,6 +16,15 @@
 <img src="https://img.shields.io/badge/ROLE-BS%20SOFTWARE%20ENGINEERING-1e2733?style=flat-square&labelColor=0b0f14&color=1e2733" />
 <img src="https://img.shields.io/badge/TRACK-QUANT%20%2F%20LOW--LATENCY-f5c451?style=flat-square&labelColor=0b0f14" />
 <img src="https://komarev.com/ghpvc/?username=abdulrehman0x&style=flat-square&color=1e2733&labelColor=0b0f14&label=SESSIONS" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="assets/boot.svg" width="100%" alt="boot sequence" />
+<img src="assets/ticker.svg" width="100%" alt="simulated order tape" />
 
 </div>
 
@@ -32,7 +41,7 @@
 ```bash
 ┌──────────────────────────────────────────────────────────────────────────┐
 │ $ whoami                                                                 │
-│   abdul rehman   (abdulrehman0x)                                    │
+│   abdul rehman imran  (abdulrehman0x)                                    │
 │                                                                          │
 │ $ cat /etc/profile.d/identity.conf                                       │
 │   DEGREE      = "BS Software Engineering (undergrad)"                    │
@@ -55,9 +64,20 @@
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-<!-- ═══════════════════════ 01 · TELEMETRY GRID ═══════════════════════ -->
+<!-- ═══════════════════════ 01 · LIVE ENGINE ═══════════════════════ -->
 
-<h2 align="center">⟨ 01 ⟩ TELEMETRY GRID</h2>
+<h2 align="center">⟨ 01 ⟩ LIVE ENGINE FEED</h2>
+
+<div align="center">
+<img src="assets/engine.svg" width="100%" alt="animated L2 depth chart with matching events" />
+<br/><sub>simulated L2 depth &amp; price-time matching · bids <code>cyan</code> · asks <code>gold</code> · fills flash white</sub>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ 02 · TELEMETRY GRID ═══════════════════════ -->
+
+<h2 align="center">⟨ 02 ⟩ TELEMETRY GRID</h2>
 
 <table align="center">
 <tr>
@@ -102,9 +122,15 @@
 
 <br/>
 
+<div align="center">
+<img src="assets/radar.svg" width="480" alt="animated focus radar" />
+</div>
+
+<br/>
+
 <!-- ═══════════════════════ 02 · ARCHITECTURE SHOWCASE ═══════════════════════ -->
 
-<h2 align="center">⟨ 02 ⟩ SYSTEM ARCHITECTURE SHOWCASE</h2>
+<h2 align="center">⟨ 03 ⟩ SYSTEM ARCHITECTURE SHOWCASE</h2>
 
 <table>
 <tr>
@@ -217,7 +243,7 @@ A real-time triage engine that ingests incoming campus signals and routes them b
 
 <!-- ═══════════════════════ 03 · LIVE METRICS ═══════════════════════ -->
 
-<h2 align="center">⟨ 03 ⟩ LIVE ACTIVITY & METRICS</h2>
+<h2 align="center">⟨ 04 ⟩ LIVE ACTIVITY & METRICS</h2>
 
 <div align="center">
 
@@ -227,6 +253,10 @@ A real-time triage engine that ingests incoming campus signals and routes them b
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=abdulrehman0x&hide_border=true&background=0B0F14&ring=00E5FF&fire=F5C451&currStreakNum=E6F7FF&sideNums=E6F7FF&currStreakLabel=00E5FF&sideLabels=9FB3C8&dates=5C6B7A&stroke=1E2733&border=1E2733" alt="streak" />
+
+<br/><br/>
+
+<img src="assets/scope.svg" width="100%" alt="latency scope" />
 
 <br/><br/>
 
@@ -243,7 +273,7 @@ A real-time triage engine that ingests incoming campus signals and routes them b
 
 <!-- ═══════════════════════ 04 · ROADMAP / SIGNAL ═══════════════════════ -->
 
-<h2 align="center">⟨ 04 ⟩ EXECUTION QUEUE</h2>
+<h2 align="center">⟨ 05 ⟩ EXECUTION QUEUE</h2>
 
 <details>
 <summary><code>$ cat ~/roadmap.queue</code> &nbsp;(click to expand)</summary>
@@ -265,7 +295,7 @@ A real-time triage engine that ingests incoming campus signals and routes them b
 
 <!-- ═══════════════════════ 05 · CONNECT ═══════════════════════ -->
 
-<h2 align="center">⟨ 05 ⟩ OPEN CHANNELS</h2>
+<h2 align="center">⟨ 06 ⟩ OPEN CHANNELS</h2>
 
 <div align="center">
 
